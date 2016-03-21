@@ -1,4 +1,4 @@
-var server = require('geronimo.server');
+var server = require('picaso.server');
 
 /**
  * 声明web服务对象

@@ -1,22 +1,22 @@
 {
-  "name": "picaso.base",
-  "version": "1.0.0",
-  "description": "为项目服务的基础功能模块。",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Malygose/Picaso.base.git"
-  },
-  "author": "馬驍",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Malygose/Picaso.base/issues"
-  },
-  "homepage": "https://github.com/Malygose/Picaso.base#readme",
-  "dependencies": {
-    "picaso.server": "1.0.0"
-  }
+    "name": "picaso.base",
+    "version": "1.0.1",
+    "description": "为项目服务的基础功能模块。",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Malygose/Picaso.base.git"
+    },
+    "author": "馬驍",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Malygose/Picaso.base/issues"
+    },
+    "homepage": "https://github.com/Malygose/Picaso.base#readme",
+    "dependencies": {
+        "picaso.server": "1.0.2"
+    }
 }
