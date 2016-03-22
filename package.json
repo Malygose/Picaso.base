@@ -1,6 +1,6 @@
 {
     "name": "picaso.base",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "为项目服务的基础功能模块。",
     "main": "index.js",
     "scripts": {
@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/Malygose/Picaso.base#readme",
     "dependencies": {
-        "picaso.server": "1.0.2"
+        "picaso.server": "1.0.3"
     }
 }
