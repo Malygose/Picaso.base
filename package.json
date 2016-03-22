@@ -1,5 +1,5 @@
 {
-    "name": "picaso.base",
+    "name": "picaso",
     "version": "1.0.2",
     "description": "为项目服务的基础功能模块。",
     "main": "index.js",
